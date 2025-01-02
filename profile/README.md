@@ -1,12 +1,7 @@
-# AWS Fundamentals
+# Learn AWS Not Just for Certifications but for the Real-World!
 
-Welcome to the AWS Fundamentals GitHub organization!
-
-This is your go-to resource for hands-on repositories that complement our written content on AWS services and best practices.
-
-## Overview
-
-Our organization provides practical examples and exercises to help you deepen your understanding of AWS. Each repository is designed to be a hands-on addition to our educational materials, allowing you to apply what you've learned in a real-world context.
+This is your go-to resource for hands-on that complement our written content on AWS services and best practices.
+Each repository is designed to be a practical addition to our educational materials, allowing you to apply what you've learned in a real-world context.
 
 ## Repositories
 
