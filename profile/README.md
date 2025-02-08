@@ -44,6 +44,7 @@ Join our community to discuss AWS topics, ask questions, and share your experien
 * [📚 Blog](https://blog.awsfundamentals.com)
 * [📨 Newsletter](https://awsfundamentals.com/newsletter)
 * [📧 Email](mailto:hello@awsfundamentals.com)
+* [👤 LinkedIn](https://www.linkedin.com/company/aws-fundamentals)
 
 ## License
 
