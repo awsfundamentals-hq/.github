@@ -1,5 +1,7 @@
 This is your **go-to resource** for **hands-on repositories** that complement our written content on AWS services and best practices! 🏗️
 
+If you don't want to miss updates, you can subscribe to this organization and to our **[free bi-weekly newsletter 📨](https://awsfundamentals.com/newsletter)**!
+
 ## Repositories
 
 Explore our repositories to [find projects and exercises](https://github.com/search?q=topic:newsletter+org:awsfundamentals-hq&type=Repositories) on various AWS topics.
