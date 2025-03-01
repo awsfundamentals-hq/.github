@@ -9,7 +9,7 @@ Explore our repositories to [find projects and exercises](https://github.com/sea
 Currently, we're covering the following services (more coming soon!):
 
 - **Gen AI** 🤖:
- [Bedrock](https://github.com/search?q=topic:bedrock+org:awsfundamentals-hq&type=Repositories),
+ [Bedrock](https://github.com/search?q=topic:bedrock+org:awsfundamentals-hq&type=Repositories)
 - **Compute** ⚡:
  [Lambda](https://github.com/search?q=topic:lambda+org:awsfundamentals-hq&type=Repositories),
  [ECS](https://github.com/search?q=topic:ecs+org:awsfundamentals-hq&type=Repositories),
@@ -26,7 +26,8 @@ Currently, we're covering the following services (more coming soon!):
  [DynamoDB](https://github.com/search?q=topic:dynamodb+org:awsfundamentals-hq&type=Repositories),
  [Aurora](https://github.com/search?q=topic:aurora+org:awsfundamentals-hq&type=Repositories)
 - **Security** 🔒:
- [IAM](https://github.com/search?q=topic:iam+org:awsfundamentals-hq&type=Repositories)
+ [IAM](https://github.com/search?q=topic:iam+org:awsfundamentals-hq&type=Repositories),
+ [Cognito](https://github.com/search?q=topic:cognito+org:awsfundamentals-hq&type=Repositories)
 - **DevOps** 🔄:
  [CloudFormation](https://github.com/search?q=topic:cloudformation+org:awsfundamentals-hq&type=Repositories),
  [CDK](https://github.com/search?q=topic:cdk+org:awsfundamentals-hq&type=Repositories),
